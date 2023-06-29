@@ -19,6 +19,6 @@ _Technologies: Python, VK API, Yandex Disc API_
 
 
 *Certificates:*
-Netology [eng.](),[rus.]()
+Netology [eng.](https://github.com/efabritz/efabritz/blob/master/netCertificate.pdf),[rus.](https://github.com/efabritz/efabritz/blob/master/netCertificateRus.pdf)
 
 
