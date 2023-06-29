@@ -11,11 +11,11 @@ PostgreSQL
 
 *Learning projects:*
 [Backend of online shop](https://github.com/efabritz/python-final-diplom)
-### _Technologies__: Python, Django, Docker, Celery, PostgreSQL
+ _Technologies: Python, Django, Docker, Celery, PostgreSQL_
 [VK bot, people search](https://github.com/efabritz/VKBot)
-### _Technologies__: Python, VK API
+_Technologies_: Python, VK API_
 [VK API, Yandex Disc API communication](https://github.com/efabritz/vkfotosyadisc)
-### _Technologies__: Python, VK API, Yandex Disc API
+_Technologies: Python, VK API, Yandex Disc API_
 
 
 *Certificates:*
