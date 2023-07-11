@@ -17,6 +17,10 @@ _Technologies_: Python, VK API_
 - [VK API, Yandex Disc API communication](https://github.com/efabritz/vkfotosyadisc)
 _Technologies: Python, VK API, Yandex Disc API_
 
+*Telegram Bots:*
+- [Bot for weather and web scrapping infos](https://github.com/efabritz/teleBot_v1)
+ _Technologies: Python, aiogramm, bs4_
+
 
 *Certificates:*
 Netology [eng.](https://github.com/efabritz/efabritz/blob/master/netCertificate.pdf),[rus.](https://github.com/efabritz/efabritz/blob/master/netCertificateRus.pdf)
