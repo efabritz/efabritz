@@ -18,9 +18,11 @@ _Technologies_: Python, VK API_
 _Technologies: Python, VK API, Yandex Disc API_
 
 *Telegram Bots:*
+- [Bot for notification of Bitcoin/USD divergence, tracked hourly](https://github.com/efabritz/botDivergence)
+ _Technologies: Python, aiogramm, min-api cryptocompare_
+
 - [Bot for weather and web scrapping infos](https://github.com/efabritz/teleBot_v1)
  _Technologies: Python, aiogramm, bs4_
-
 
 *Certificates:*
 Netology [eng.](https://github.com/efabritz/efabritz/blob/master/netCertificate.pdf),[rus.](https://github.com/efabritz/efabritz/blob/master/netCertificateRus.pdf)
